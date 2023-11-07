@@ -6,7 +6,7 @@
 
 Be ready to share out the tests that you have written!
 
-4. After you have written tests fo all of the existing methods, take another look at the program and identify one additional class that could improve the re-usability and extendability (the ease or difficulty of adding features) of the code. To help you think through this, you can start by answering the following questions:
+4. After you have written tests for all of the existing methods, take another look at the program and identify one additional class that could improve the re-usability and extendability (the ease or difficulty of adding features) of the code. To help you think through this, you can start by answering the following questions:
     * Is there any code that is repeated often?
     * What if we want to track more information about songs, like length or genre?
     * Is there additional information that would be useful about an album?
